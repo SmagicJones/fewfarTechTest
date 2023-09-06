@@ -16,18 +16,18 @@ git clone https://github.com/SmagicJones/fewfarTechTest.git
 cd fewfarTechTest
 ```
 
-### install dependencies
+### Install dependencies
 
 ```
 npm i
 ```
 
-### setup database
+### Setup database
 ```
 npm run setup-db
 ```
 
-### seed database
+### Seed database
 ```
 npm run run-seed
 ```
