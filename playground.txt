@@ -1,0 +1,505 @@
+You are now connected to database "fewfar" as user "bobholland".
+              name               |  sum   
+---------------------------------+--------
+ Prof. Delaney O'Keefe           | 302900
+ Dayne Leuschke Sr.              | 287800
+ Leola Okuneva III               | 279700
+ Abigail Mayert                  | 277000
+ Jeremie Pouros                  | 274900
+ Nona Altenwerth                 | 272200
+ Evalyn Shields                  | 271200
+ Maggie Adams                    | 267000
+ Vaughn Schmidt                  | 266800
+ Margret Hartmann                | 263100
+ Ms. Lulu Kilback                | 260500
+ Blaise Brekke                   | 257900
+ Kristoffer Marquardt            | 256100
+ Kaylin Wunsch II                | 247700
+ Darrion Ondricka                | 245500
+ Roxane Schiller                 | 245200
+ Paula Schmeler                  | 244900
+ Ana Kirlin                      | 244700
+ Dulce Shanahan DDS              | 243200
+ Mrs. Julie Steuber              | 241100
+ Verner Miller                   | 240400
+ Reta Green                      | 239800
+ Domenica Upton V                | 239500
+ Elmo Ernser                     | 238800
+ Chyna Bartell                   | 238200
+ Michaela Predovic               | 236000
+ Solon Davis                     | 235900
+ Lora Hyatt II                   | 235900
+ Katrina Morissette III          | 235900
+ Dr. Angel Ritchie IV            | 235100
+ Prof. Oda Bechtelar             | 233700
+ Misael Kuhic MD                 | 232000
+ Prof. Gussie O'Reilly           | 231300
+ Ms. Rafaela Paucek PhD          | 230700
+ Mrs. Emmie Ullrich              | 229100
+ Vern Herzog                     | 228800
+ Ms. Meagan Wunsch II            | 228800
+ Carlotta Senger                 | 228100
+ Dr. Britney Bahringer           | 227300
+ Josh Hills PhD                  | 226900
+ Brant Feest                     | 225900
+ Angus Hamill                    | 225500
+ Friedrich Russel                | 224500
+ Prof. Elijah Ledner Sr.         | 224000
+ Mrs. Hallie Brekke              | 223800
+ Dr. Baylee Hickle MD            | 222600
+ Lorena Hahn                     | 220600
+ Prof. Lonzo Crooks              | 220000
+ Prof. Kayla Steuber             | 220000
+ Estelle Treutel                 | 219600
+ Stanford Bosco                  | 219400
+ Pamela DuBuque                  | 217900
+ Tito Brown                      | 217100
+ Marcelino Bergstrom             | 216700
+ Vaughn Windler                  | 216400
+ Claire Schumm                   | 215400
+ Celestine Watsica               | 214400
+ Luz Kulas                       | 214000
+ Emory Dibbert IV                | 213900
+ Lizzie Kling                    | 213700
+ Olga Considine                  | 213300
+ Dr. Elyse Mann I                | 213200
+ Maddison Larson                 | 213000
+ Miss Stephanie Pfannerstill PhD | 212500
+ Eleonore O'Reilly               | 212400
+ Mr. Guillermo Willms Jr.        | 212300
+ Caleb Nitzsche                  | 212000
+ Odell Hickle                    | 211900
+ Prof. Alvena Abbott             | 211300
+ Dr. Demetris Wisoky DVM         | 210300
+ Prof. Hayley Lang II            | 208700
+ Lavern McGlynn                  | 208200
+ Blake Wiza                      | 207200
+ Angelica Krajcik                | 206900
+ Torrance Quigley                | 206800
+ Benedict Tillman                | 206500
+ Daphney Armstrong               | 206400
+ Elna Cruickshank                | 206100
+ Prof. Hillary Treutel           | 205300
+ Zena Mills                      | 205100
+ Miss Kendra Senger              | 204100
+ Dr. Hollis Hamill               | 203900
+ Buster Satterfield              | 202900
+ Mrs. Flossie Aufderhar DVM      | 202800
+ Kira Kuhlman                    | 201700
+ Ms. Anne Ritchie                | 201300
+ Prof. Earline Carroll III       | 201100
+ Prof. Blanca Dibbert IV         | 200600
+ Zackery Nicolas                 | 200300
+ Stanford Moen PhD               | 199700
+ Jameson Casper                  | 199300
+ Jermain Stiedemann              | 198200
+ Prof. Halie Heidenreich DDS     | 196900
+ Doug Pfannerstill I             | 196900
+ Earline Rempel Sr.              | 196600
+ Stephon Herman                  | 196500
+ Dr. Anjali Schaden              | 196100
+ Dr. Nikki Christiansen          | 195300
+ Kaleb Lind                      | 194700
+ Dagmar Graham                   | 194700
+ Stella Brakus                   | 194400
+ Christopher Kunze               | 193900
+ Ulises Leffler                  | 193300
+ Laurence Abernathy              | 193100
+ Bret Howe                       | 192100
+ Braden Auer                     | 192100
+ Prof. Cale Skiles II            | 191200
+ Cullen Conroy                   | 190800
+ Alison Turcotte                 | 190500
+ Ms. Luna Wehner                 | 190200
+ Brennan Beatty                  | 190200
+ Whitney Grant                   | 189500
+ Flavio Hills                    | 189500
+ Alexie Reichert I               | 189000
+ Margarett Toy DVM               | 188300
+ Erick Halvorson                 | 187900
+ Lincoln McLaughlin Jr.          | 186700
+ Paxton Mraz DDS                 | 186100
+ Kolby Raynor                    | 186000
+ Barbara Nienow II               | 186000
+ Maurine Cartwright              | 185800
+ Assunta Hodkiewicz              | 185100
+ Aurelia Bergstrom               | 184000
+ Alexane Gottlieb                | 183900
+ Mr. Stevie Heidenreich          | 183400
+ Ephraim Weber                   | 183400
+ Naomie Runolfsdottir            | 182700
+ Dr. Weldon Connelly             | 181800
+ Presley Effertz III             | 181100
+ Gerry Gorczany                  | 181100
+ Mr. Dashawn Block               | 180300
+ Prof. Alysha Murray             | 179200
+ Elsa VonRueden                  | 178700
+ Cheyenne Skiles                 | 178200
+ Chelsie Jacobson                | 177200
+ Ms. Maryjane Denesik            | 176700
+ Jarret Frami                    | 176500
+ Dr. German Lynch Jr.            | 176200
+ Anya Barton                     | 176000
+ Sally Gleichner                 | 176000
+ Maybell Dicki II                | 175800
+ Dr. Felicity Littel MD          | 175500
+ Mr. Easton Blanda Sr.           | 175100
+ Deborah Botsford                | 173500
+ Lillian Graham                  | 173000
+ Rita Kerluke                    | 172800
+ Mr. Monserrat Nienow            | 172800
+ Ms. Kaci Daugherty              | 171400
+ Mr. John Kertzmann              | 171200
+ Flossie Smitham                 | 170600
+ Cathryn Medhurst                | 169600
+ Rashad Bashirian DVM            | 169300
+ Hunter Cole                     | 168300
+ Vickie Hansen                   | 167300
+ Ubaldo Casper                   | 166300
+ Wallace Ondricka                | 163800
+ Nico Kub II                     | 163700
+ Velda Grimes                    | 163700
+ Prof. Aimee Beatty IV           | 163100
+ Javonte Lang                    | 162800
+ Cristina Heaney                 | 162700
+ Dr. Sydney Hammes DDS           | 162400
+ Gage Bailey                     | 160400
+ Keith Kiehn                     | 159900
+ Rodrick Lemke                   | 159400
+ Anissa Greenfelder PhD          | 158700
+ Sydney Konopelski DVM           | 158600
+ Prof. Golden Rogahn             | 158100
+ Dr. Dina Herzog                 | 157100
+ Marcelina Wilkinson             | 157000
+ Dr. Alessandro Kertzmann        | 156700
+ Derick Wiza                     | 156500
+ Precious Watsica                | 156400
+ Watson Ledner                   | 155700
+ Robbie Fadel                    | 155000
+ Christian Schuppe               | 155000
+ Trudie Wiza                     | 154500
+ Deja Cremin PhD                 | 154400
+ Alia Gleason                    | 154400
+ Kendall Kovacek                 | 154100
+ Elda Feil                       | 151800
+ Sherwood Breitenberg Sr.        | 151600
+ Adella Haley                    | 151400
+ Mr. Khalid Kreiger V            | 150800
+ Ramiro Purdy                    | 150800
+ Vida Padberg                    | 150400
+ Henry Kub                       | 149100
+ Prof. Cesar Gibson II           | 148400
+ Alejandra Lehner                | 147900
+ Herminia Kozey                  | 147600
+ Jannie Considine                | 146800
+ Dr. Shaina Beatty               | 146800
+ Mr. Domingo Grant DDS           | 146700
+ Eusebio Pagac Sr.               | 146500
+ Dr. Tillman Mraz                | 146300
+ Mr. Delbert Schulist            | 145700
+ Herman Leannon Jr.              | 144200
+ Eliza Berge                     | 143900
+ Barrett McCullough              | 143500
+ Kristina Volkman                | 143200
+ Mr. Lindsey Fahey Jr.           | 142400
+ Ray Cronin                      | 141100
+ Sven Steuber                    | 140900
+ Raymundo Schmitt                | 140300
+ Sarah Johns IV                  | 140200
+ Colin Berge                     | 138900
+ Nelle Schumm                    | 138100
+ Turner Bernier                  | 137700
+ Jessy Flatley                   | 137600
+ Delphine O'Conner               | 137100
+ Anissa Hodkiewicz               | 136600
+ Prof. Flavio Sporer             | 135900
+ Elroy Dickens                   | 135800
+ Hollie Kunde                    | 134400
+ Bria Nader                      | 134200
+ Brandyn Hansen                  | 133700
+ Leanne Kozey                    | 133300
+ Duane Sanford V                 | 133200
+ Dr. Moshe Harvey                | 132600
+ Mrs. Kaitlin Considine PhD      | 131200
+ Edward Harvey                   | 131100
+ Alden Mueller                   | 129400
+ Kelvin Gibson                   | 129300
+ Lucinda Mitchell                | 129100
+ Mr. Matt Bauch                  | 127500
+ Ms. Loraine Gleason             | 127000
+ Marianne Marvin                 | 126600
+ Jovany Lehner Sr.               | 124800
+ Gretchen Heathcote              | 124800
+ Nicola Mann                     | 124700
+ Prof. Toby Turcotte MD          | 123400
+ Shaniya Weimann                 | 122500
+ Ms. Jane Bartoletti             | 122400
+ Kiana Williamson                | 121200
+ Lamont Ziemann                  | 120900
+ Mavis Mayert                    | 120800
+ Lelia Terry Jr.                 | 120200
+ Ashly Kuphal DDS                | 120100
+ Garrick Bartell II              | 120100
+ Prof. Emerson Jacobs            | 119800
+ Kaleb Rempel                    | 119800
+ Luna Kuphal                     | 119000
+ General Beer                    | 118600
+ Prof. Karson Marquardt II       | 118500
+ Reece Zemlak II                 | 118200
+ Curtis Hauck                    | 118000
+ Zetta Huels DVM                 | 117400
+ Chester Sipes                   | 117000
+ Katelin Morar                   | 116800
+ Rodrigo Padberg                 | 116600
+ Lon Hoppe                       | 116400
+ Granville Lowe                  | 116200
+ Samara Wyman                    | 116100
+ Julianne Hettinger              | 115400
+ Prof. Neal Weimann IV           | 114800
+ Caroline Mertz                  | 113600
+ Avery Schimmel                  | 113400
+ Cedrick Beatty                  | 113000
+ Ora Hoppe                       | 112800
+ Morgan Wisoky                   | 112100
+ Delfina Harris                  | 111700
+ Joaquin Gerlach                 | 111200
+ Precious Wisozk                 | 110500
+ Amie Skiles                     | 110200
+ Broderick Ritchie               | 109100
+ Gabriel Ryan                    | 109100
+ Prof. Brenna Jenkins            | 108900
+ Minerva Crooks                  | 108700
+ Rubie Gutmann                   | 108300
+ Brannon Dibbert                 | 108300
+ Emie DuBuque                    | 107800
+ Miss Claudie Conroy             | 107700
+ Mr. Henry Schulist              | 107400
+ Kristina Roberts                | 107200
+ Dolores Ratke                   | 106700
+ Dr. Orlo Kessler                | 106700
+ Mr. Julius Murazik              | 106500
+ Bert Durgan                     | 106000
+ Lorenza Gerlach                 | 105100
+ Kurtis Macejkovic               | 105100
+ Brendan Pouros                  | 104600
+ Lempi Bergstrom                 | 104500
+ Barbara Gottlieb                | 103100
+ Erwin Kreiger                   | 102900
+ Gussie Bartell                  | 102600
+ Myrtle Heaney                   | 102100
+ Brennan Roberts                 | 102000
+ Cyril Pollich                   | 101800
+ Mckenna Ondricka                | 101600
+ Eddie Hills                     | 101400
+ Jarret Beier                    | 101400
+ Kelton Baumbach                 | 100500
+ Jackie Legros                   | 100300
+ Mrs. Maeve King Jr.             | 100000
+ Jillian Larkin                  |  99400
+ Nick Jaskolski DVM              |  99300
+ Miss Leonie Fisher DVM          |  99200
+ Ms. Bette Harber III            |  99000
+ Kamron Bradtke MD               |  98900
+ Elsie Konopelski                |  98300
+ Reid Bogisich                   |  98200
+ Prof. Blanche Funk DVM          |  98000
+ Quincy Dach                     |  96700
+ Dr. Cale Kohler                 |  96700
+ Emilie Green                    |  94300
+ Cristopher Bartoletti           |  94200
+ Ova McGlynn                     |  94100
+ Prof. Madisen Gaylord Jr.       |  93300
+ Prof. Royce Huel                |  93100
+ Ada Ebert                       |  92800
+ Herminia Turcotte III           |  92500
+ Sabrina Mills IV                |  92200
+ Prof. Scotty Gislason           |  91800
+ Roberto Ferry                   |  90800
+ Diego Hagenes                   |  90700
+ Ms. Vanessa Grant               |  90400
+ Rodger Crona                    |  90400
+ Miss Angeline Halvorson Jr.     |  90000
+ Gerald McLaughlin               |  89500
+ Bettye Torphy                   |  89400
+ Mr. Fern Rolfson MD             |  89000
+ Ron Parker V                    |  88700
+ Prof. Tressie Cole II           |  88100
+ Prof. Lacy Powlowski DVM        |  86300
+ Mr. Adolf Bechtelar DVM         |  85900
+ Mrs. Macie Maggio DVM           |  84700
+ Rudolph Hodkiewicz              |  84400
+ Camilla Volkman                 |  84100
+ Tatyana Macejkovic I            |  84100
+ Crystel Feeney                  |  83200
+ Favian Huels                    |  83200
+ Dayana Baumbach                 |  83100
+ Santos Smith                    |  82300
+ Anthony Johnston MD             |  82300
+ Dr. Avery Schowalter PhD        |  82100
+ Serena Herman                   |  82000
+ Ms. Cathryn Lind DVM            |  81600
+ Gilda McKenzie                  |  81300
+ Winifred Stiedemann II          |  81300
+ Trevion Hahn                    |  80600
+ Jana Ortiz                      |  80500
+ Ms. Dorothy Gulgowski MD        |  80100
+ Katarina Russel                 |  79500
+ Cornelius Torp I                |  78600
+ Prof. Noemy Jakubowski Sr.      |  78500
+ Prof. Ines Lynch II             |  78100
+ Cayla Marks                     |  77600
+ Ottis Labadie                   |  77500
+ Miss Shyanne Rogahn             |  75400
+ Prof. Twila Kovacek DDS         |  75300
+ Prof. Francis Ortiz             |  74100
+ Garnet Mosciski                 |  73300
+ Dameon Muller                   |  72600
+ Prof. Tavares Jones             |  72100
+ Robin Treutel                   |  71800
+ Meta Graham                     |  71400
+ Adriel Johns                    |  71300
+ Don Grimes                      |  70700
+ Janis Waelchi                   |  70300
+ Mr. Dale Cruickshank            |  70300
+ Iliana Schroeder MD             |  69800
+ Ms. Constance Jenkins           |  69600
+ Savanna Gutmann                 |  69500
+ Miss Mable Hoeger               |  69400
+ Brycen Howell                   |  69400
+ Eugenia Beier                   |  69300
+ Talia Williamson                |  69200
+ Prof. Abdul Rogahn DDS          |  69000
+ Dr. Arno Cremin Jr.             |  68600
+ Hermina Brekke DVM              |  68600
+ Litzy Lebsack                   |  67200
+ Rafael Wehner                   |  67100
+ Prof. Shawn Jenkins             |  66500
+ Blake Runte                     |  66400
+ Miss Josefa Kuhic               |  66100
+ Dr. Jamey Prosacco DDS          |  66100
+ Alysson Walter                  |  65700
+ Maribel Kautzer                 |  65700
+ Milo Davis                      |  65600
+ Noemi Gislason                  |  65400
+ Kasey Grant                     |  64500
+ Patience Keebler                |  64300
+ Mr. Adelbert Hand               |  63300
+ Prof. Fredy Wehner DDS          |  63000
+ Lucas Toy                       |  62600
+ Jany Reichert                   |  61700
+ Garnett Torphy PhD              |  61200
+ Mateo Berge                     |  61200
+ Alessandro Satterfield          |  60600
+ Lexie Tromp                     |  59800
+ Harmony Kiehn                   |  59800
+ Curt Schumm                     |  59600
+ Dortha Gibson                   |  58400
+ Prof. Ricky Medhurst            |  58300
+ Prof. Al Carter DDS             |  58000
+ Newell Gleichner                |  57300
+ Keaton Terry                    |  55800
+ Mallory Schimmel                |  55600
+ Mr. Dimitri Glover Jr.          |  55500
+ Sandy Ebert DDS                 |  55100
+ Ms. Helene Bode                 |  55000
+ Steve Fay                       |  54500
+ Mrs. Rowena Kohler              |  54200
+ Collin Larkin                   |  53100
+ Gonzalo Vandervort              |  52500
+ Dr. Isom Lindgren DDS           |  52100
+ Ms. Madelyn Botsford PhD        |  51800
+ Ms. Prudence Deckow DVM         |  51800
+ Mr. Darien Effertz              |  50400
+ Mrs. Shyanne Bauch MD           |  49500
+ Dr. Isaias Moore Sr.            |  49300
+ Martina Mayer                   |  48700
+ Tamia Ward                      |  48500
+ Emery Ullrich                   |  46300
+ Carmella Walker Jr.             |  46000
+ Justus Turner                   |  45900
+ Bud Gutmann                     |  44100
+ Russell Cronin                  |  44000
+ Ted Ferry DDS                   |  44000
+ Demetrius Mraz DDS              |  43200
+ Saige Hill                      |  42900
+ Monty Treutel                   |  42700
+ Fae Corkery                     |  42100
+ Prof. Matteo Schulist DVM       |  41800
+ Caleb Huel                      |  41300
+ Hildegard Blick                 |  41300
+ Alvis Wiza                      |  40100
+ Eleanora Purdy                  |  39900
+ Leopold Haley                   |  39700
+ Mrs. Jany Hilpert Jr.           |  39500
+ Mrs. Karina Wunsch I            |  38800
+ Eloise Kovacek                  |  38400
+ Kennith Kilback                 |  37800
+ Rafael Sporer                   |  37800
+ Bettie Gaylord V                |  37700
+ Anabelle Predovic               |  37100
+ Miss Emmie Kunze MD             |  37100
+ Meredith Kertzmann              |  37000
+ Claudine Rutherford             |  37000
+ Mr. Harmon Lemke                |  36900
+ Prof. Payton Collins            |  36800
+ Waylon Kuhlman Sr.              |  36400
+ Akeem Fahey                     |  36300
+ Dr. Walton Grady I              |  36200
+ Liliane Mraz                    |  36000
+ Dr. Hipolito Bayer IV           |  35700
+ Winnifred Osinski               |  35600
+ Mable Collier                   |  35400
+ Prof. Daphne Ortiz V            |  35400
+ Dr. Aubree Senger               |  35100
+ Mrs. Margarette DuBuque         |  35100
+ Haven Dooley MD                 |  33500
+ Angelina Christiansen           |  32900
+ Mrs. Dejah Wiegand              |  32100
+ Llewellyn Schowalter I          |  31700
+ Arthur Koelpin                  |  31400
+ Helga Adams                     |  31000
+ Prof. Garland Schuppe III       |  30600
+ Prof. Keven Dickens Sr.         |  30400
+ Esteban Carroll                 |  30000
+ Bernadine Hackett               |  29800
+ Kailyn Cormier                  |  29500
+ Donavon Abernathy               |  29400
+ Easton Ryan                     |  29100
+ Anais Shields                   |  28800
+ Prof. Alexandre Sauer DVM       |  28300
+ Zoila Stiedemann                |  28000
+ Garth Von                       |  27500
+ Troy Predovic                   |  26600
+ Elroy Wisoky                    |  25300
+ Nathanial Gutkowski             |  25000
+ Lauretta Terry IV               |  23800
+ Austin Rice                     |  23600
+ Myrtis Lesch DDS                |  23300
+ Shany Padberg                   |  22500
+ Blair Watsica                   |  22400
+ Reed Fritsch                    |  22400
+ Shaina Cormier Jr.              |  19800
+ Grover Kuhlman                  |  18800
+ Hosea Koss Sr.                  |  18500
+ Aliyah Barton                   |  18300
+ Krystel Zulauf                  |  18000
+ Kenna Stamm III                 |  17700
+ Mariah Luettgen                 |  17600
+ Daren Barrows Sr.               |  17300
+ Hudson Hoeger                   |  17000
+ Rigoberto Swift                 |  15800
+ Kasey Feil                      |  15000
+ Mireya Ledner PhD               |  14600
+ Prof. Kelly Vandervort          |  13700
+ Norris Miller                   |  12900
+ Cleve Dickinson                 |  12200
+ Antonina Dach                   |  10900
+ Prof. Mariana Marks I           |  10900
+ Neoma Yundt                     |   7200
+ Alfonzo Abbott                  |   7200
+ Miss Bessie Mraz III            |   4700
+ Vella Beatty                    |   4400
+ Gordon Dickens                  |   2700
+ Walker Kozey                    |   2600
+(500 rows)
+

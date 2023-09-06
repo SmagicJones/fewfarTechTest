@@ -1,4 +1,4 @@
-\c seedy
+\c fewfar
 
 -- SELECT * FROM donations;
 
