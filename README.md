@@ -21,7 +21,7 @@ npm run run-seed
 ```
 
 
-use this command to print a table to playground.txt to show the the total donations of all supporters
+use this command to print a table to playground.txt to show the total donations of all supporters
 
 ```
 npm run get-donations
