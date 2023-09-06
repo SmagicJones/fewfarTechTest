@@ -46,25 +46,22 @@ const seed = () => {
             amount INT
         )`)
     })
-    
-        .then(()=>{
-            const formattedSupporters = supporters.data.map((supporter) => [supporter.object, supporter.id, supporter.created_at, supporter.name, supporter.address_1, supporter.address_2, supporter.city, supporter.postcode])
-           
-                const queryStr = format(`INSERT INTO supporters (object, id, created_at, name, address_1, address_2, city, postcode)
-                VALUES %L
-                RETURNING *;`, formattedSupporters);
-                return db.query(queryStr)
-            })
-            .then(()=>{
-                const formattedDonations = donations.data.map((donation)=>[donation.object, donation.id, donation.created_at, donation.supporter_id, donation.amount])
-        
-                const queryStr = format(`INSERT INTO donations (object, id, created_at, supporter_id, amount)
-                VALUES %L
-                RETURNING *;`, formattedDonations)
-                return db.query(queryStr)
-                })
+    .then(()=>{
+        const formattedSupporters = supporters.data.map((supporter) => [supporter.object, supporter.id, supporter.created_at, supporter.name, supporter.address_1, supporter.address_2, supporter.city, supporter.postcode])
+        const queryStr = format(
+        `INSERT INTO supporters (object, id, created_at, name, address_1, address_2, city, postcode)
+        VALUES %L
+        RETURNING *;`, formattedSupporters);
+        return db.query(queryStr)
+    })
+    .then(()=>{
+        const formattedDonations = donations.data.map((donation)=>[donation.object, donation.id, donation.created_at, donation.supporter_id, donation.amount])
+        const queryStr = format(
+        `INSERT INTO donations (object, id, created_at, supporter_id, amount)
+        VALUES %L
+        RETURNING *;`, formattedDonations)
+        return db.query(queryStr)
+    })
 
-   
-  
 }
 export default seed;
