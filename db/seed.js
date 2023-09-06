@@ -1,17 +1,10 @@
 import format from 'pg-format';
-
-
 import db from './connection.js'
 
 // import fetchSupporters from '../supporterModel.js';
 // import fetchDonations from '../donationsModel.js'
-
-
 // const supporters = await fetchSupporters();
-
 // const donations = await fetchDonations();
-
-
 
 
 import supporters from './data/supporters.json' assert {type: "json"};
