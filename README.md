@@ -4,6 +4,18 @@ This Repo uses the endpoints given to return the total donations for each suppor
 
 Setup
 
+Clone this repo
+
+```
+git clone https://github.com/SmagicJones/fewfarTechTest.git
+```
+
+Change into the directory
+
+```
+cd fewfarTechTest
+```
+
 install dependencies
 
 ```
