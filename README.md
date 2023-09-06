@@ -2,7 +2,7 @@
 
 This Repo uses the endpoints given to return the total donations for each supporter.
 
-Setup
+##Setup
 
 Clone this repo
 
